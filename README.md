@@ -15,7 +15,7 @@ This project requires the following libraries:
 
 You will also need to have a software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
 
-To install the packages, on a Python 3.9.4 virtual environment run :
+To install the packages, on a Python 3.9.4 run:
 
 ```
 pip install -r requirements.txt
